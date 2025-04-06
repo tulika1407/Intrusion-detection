@@ -4,9 +4,9 @@ A Machine Learning-based Intrusion Detection System that detects whether incomin
 
 Features:-
 
-Real-time prediction of network anomalies
-Uses Decision Tree, KNN, and Logistic Regression for comparison
-Frontend built using React.js with a modern dark UI
-RESTful Flask API backend for prediction
-Feature selection using Random Forest
-Accuracy and precision comparison of model
+1) Real-time prediction of network anomalies
+2) Uses Decision Tree, KNN, and Logistic Regression for comparison
+3) Frontend built using React.js with a modern dark UI
+4) RESTful Flask API backend for prediction
+5) Feature selection using Random Forest
+^) Accuracy and precision comparison of model
