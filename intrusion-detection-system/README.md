@@ -13,7 +13,7 @@ Tech Stack: -
 1)	Frontend: React.js (MERN Stack)
 2)	Backend: Flask (Python)
 3)	ML Algorithms: Decision Tree, Logistic Regression, KNN
-4)	Dataset:
+4)	Dataset Link - https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection
 5)	Other:  Random Forest (for feature selection), scikit-learn, NumPy, Pickle, Pandas
 
 
